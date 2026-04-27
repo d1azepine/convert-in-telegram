@@ -1,0 +1,5 @@
+telebot
+ffmpeg-python
+docx2txt
+pdf2docx
+docx2pdf
